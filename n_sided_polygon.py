@@ -1,5 +1,4 @@
 #Anthony Lozbin
-#U08906243
 #This program allows the user to enter the number of sides of a polygon and the length of each side, then calculates the perimeter and area.
 
 class Polygon:
